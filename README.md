@@ -1,7 +1,7 @@
-# Custom-Blockchain
+## Custom-Blockchain
 A custom blockchain (feel free to contribute)
 
-##Credit
+# Credit
 Huge shoutout to https://github.com/dvf/blockchain?ref=hackernoon.com for making the tutorial on this! :)
 
 ## Installation
