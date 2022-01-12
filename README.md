@@ -1,6 +1,8 @@
 ## Custom-Blockchain
 A custom blockchain (feel free to contribute)
 
+## IF ALL ELSE FAILS: RTFM (Read the fucking manual)
+
 # Credit
 Huge shoutout to https://github.com/dvf/blockchain?ref=hackernoon.com for making the tutorial on this! :)
 
