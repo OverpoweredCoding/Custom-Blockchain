@@ -53,7 +53,6 @@ class TestBlocksAndTransactions(BlockchainTestCase):
 
         latest_block = self.blockchain.last_block
 
-        # The genesis block is create at initialization, so the length should be 2
         assert len(self.blockchain.chain) == 2
         assert latest_block['index'] == 2
         assert latest_block['timestamp'] is not None
