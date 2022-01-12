@@ -5,7 +5,7 @@ The following versions are being updated for security patches
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.0.0   | :white_x_mark: |
+| 1.0.0   | :x: |
 | 1.0.1   | :white_check_mark: |
 
 ## Reporting a Vulnerability
