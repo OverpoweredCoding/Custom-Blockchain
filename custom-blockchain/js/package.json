@@ -1,7 +1,7 @@
 {
-  "name": "blockchain",
-  "version": "1.0.0",
-  "description": "",
+  "name": "custom-blockchain",
+  "version": "1.0.1",
+  "description": "A custom blockchain program",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon blockchain.js",
