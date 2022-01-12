@@ -77,7 +77,7 @@ Crypto:
 1) ARRR: ```zs1eed2nf83u5ptralw3lvk3l63m7s9hgfhfygltv76lk4hdmvjqz5aanke7g4u5y5d7mnzghy9qsw```
 2) SOL: ```GNWK9LpTnEWRQiHMo1bkVUDQy9d4mu2XPpCe2NTQbqQL```
 3) Coinbase: ```0x2feA4E5F43Ae121EB6D060C5DA89018c4c657a1a```
-4) 
+
 Card:
 1) Stripe (5 USD): ```https://buy.stripe.com/fZedQU8WDbeG7e03de```
 2) Stripe (10 USD): ```https://buy.stripe.com/5kA6osfl14Qicyk29b```
