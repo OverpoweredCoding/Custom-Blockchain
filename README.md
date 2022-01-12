@@ -6,6 +6,15 @@ A custom blockchain (feel free to contribute)
 # Credit
 Huge shoutout to https://github.com/dvf/blockchain?ref=hackernoon.com for making the tutorial on this! :)
 
+## Installation (js)
+1. Install requirements
+
+`npm i`
+
+2. Run the server:
+
+`node .` or `node index.js`
+
 ## Installation (pip)
 
 1. Make sure you have python v3.6 or above installed
