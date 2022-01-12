@@ -32,7 +32,6 @@ class Blockchain {
 
         this.chain.push(block);
 
-        // Reset pending transactions
         this.pendingTransactions = [];
     }
 
