@@ -19,14 +19,12 @@ namespace BlockChainDemo
 
         public string NodeId { get; private set; }
 
-        //ctor
         public BlockChain()
         {
             NodeId = Guid.NewGuid().ToString().Replace("-", "");
             CreateNewBlock(proof: 100, previousHash: "1"); //genesis block
         }
 
-        //private functionality
         private void RegisterNode(string address)
         {
             _nodes.Add(new Node { Address = new Uri(address) });
@@ -44,11 +42,9 @@ namespace BlockChainDemo
                 Debug.WriteLine($"{block}");
                 Debug.WriteLine("----------------------------");
 
-                //Check that the hash of the block is correct
                 if (block.PreviousHash != GetHash(lastBlock))
                     return false;
 
-                //Check that the Proof of Work is correct
                 if (!IsValidProof(lastBlock.Proof, block.Proof, lastBlock.PreviousHash))
                     return false;
 
