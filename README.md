@@ -9,11 +9,11 @@ Huge shoutout to https://github.com/dvf/blockchain?ref=hackernoon.com for making
 ## Installation (js)
 1. Install requirements
 
-`npm i`
+`$ npm i`
 
 2. Run the server:
 
-`node .` or `node index.js`
+`$ node .` or `$ node index.js`
 
 ## Installation (pip)
 
