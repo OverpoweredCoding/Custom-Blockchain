@@ -6,16 +6,16 @@ A custom blockchain (feel free to contribute)
 # Credit
 Huge shoutout to https://github.com/dvf/blockchain?ref=hackernoon.com for making the tutorial on this! :)
 
-## Installation
+## Installation (pip)
 
-1. Make sure [Python 3.6+](https://www.python.org/downloads/) is installed. 
-2. Install [pipenv](https://github.com/kennethreitz/pipenv). 
+1. Make sure you have python v3.6 or above installed
+2. Install pipenv
 
-$ pip install pipenv 
+`$ pip install pipenv`
 
 3. Install requirements
 
-$ pipenv install 
+`$ pipenv install`
 
 4. Run the server:
 
@@ -25,7 +25,7 @@ $ pipenv run python blockchain.py -p 5001
 $ pipenv run python blockchain.py --port 5002
 ```
     
-## Docker
+## Installation (docker)
 
 Another option for running this blockchain program is to use Docker.  Follow the instructions below to create a local Docker container:
 
@@ -46,12 +46,11 @@ $ docker run --rm -p 82:5000 blockchain
 $ docker run --rm -p 83:5000 blockchain
 ```
 
-## Installation (C# Implementation)
+## Installation (c#)
 
-1. Install a free copy of Visual Studio IDE (Community Edition):
-https://www.visualstudio.com/vs/
+1. Install Visual Studio IDE
 
-2. Once installed, open the solution file (BlockChain.sln) using the File > Open > Project/Solution menu options within Visual Studio.
+2. Open the solution file (BlockChain.sln) using the File > Open > Project/Solution menu options within Visual Studio.
 
 3. From within the "Solution Explorer", right click the BlockChain.Console project and select the "Set As Startup Project" option.
 
@@ -60,4 +59,4 @@ https://www.visualstudio.com/vs/
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome and appreciated! Please feel free to submit a Pull Request.
