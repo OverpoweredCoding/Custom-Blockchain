@@ -69,3 +69,11 @@ $ docker run --rm -p 83:5000 blockchain
 ## Contributing
 
 Contributions are welcome and appreciated! Please feel free to submit a Pull Request.
+
+## Donations
+Donations are greatly appretiated and will motivate me to continue development of this project.
+
+Crypto:
+ARRR: zs1eed2nf83u5ptralw3lvk3l63m7s9hgfhfygltv76lk4hdmvjqz5aanke7g4u5y5d7mnzghy9qsw
+SOL: GNWK9LpTnEWRQiHMo1bkVUDQy9d4mu2XPpCe2NTQbqQL
+Coinbase: 0x2feA4E5F43Ae121EB6D060C5DA89018c4c657a1a
