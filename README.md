@@ -39,7 +39,7 @@ $ docker run --rm -p 83:5000 blockchain
 ```
 
 ## Installation (c#)
-
+```
 1. Install VS IDE
 
 2. Open BlockChain.sln using File --> Open --> Project/Solution menu options within VS.
@@ -47,6 +47,7 @@ $ docker run --rm -p 83:5000 blockchain
 3. From within the Solution Explorer, right click the BlockChain.Console project and select "Set As Startup Project."
 
 4. Click the start button, or hit F5 to run it.
+```
 
 ## Contributing
 
