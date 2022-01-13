@@ -27,7 +27,7 @@ $ pipenv run python blockchain.py --port 5002
 ## Installation (docker)
 
 ```
-$ git clone https://github.com/OverpoweredCoding/Custom-Blockchain
+$ git clone https://github.com/OverpoweredCoding/Custom-Blockchain.git
 $ docker build -t blockchain .
 
 $ docker run --rm -p 80:5000 blockchain
