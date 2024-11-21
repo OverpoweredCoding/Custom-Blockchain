@@ -25,4 +25,3 @@ $ pipenv run python blockchain.py --port 5002
 ## Contributing
 
 Contributions are welcome and appreciated! Please feel free to submit a Pull Request.
-5) Stripe (100 USD): ```https://buy.stripe.com/dR67sw6Ovgz07e0bJO```
